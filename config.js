@@ -27,7 +27,7 @@ global.Payment = `
 1. **Dana**       : 0895411120976
 2. **OVO**        : 0895411120976
 3. **GoPay**      : 0895411120976
-4. **ShopeePay**  : 0895411120976
+4. **ShopeePay**  : -
 5. **SeaBank**    : -
 6. **BankJago**   : -
 7. **Madera**     : -
