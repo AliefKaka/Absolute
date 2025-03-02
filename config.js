@@ -1,11 +1,11 @@
-global.owner = ['YOUR_NUMBER']
-global.mods = ['YOUR_NUMBER']
-global.prems = ['YOUR_NUMBER']
-global.numberowner = 'YOUR_NUMBER'
-global.nameowner = 'YOUR_NAME'
-global.mail = 'YOUR_EMAIL' 
-global.namebot = 'YOUR_NAME_BOT'
-global.wm = '© YOUR_NAMEBOT'
+global.owner = ['62895411120976']
+global.mods = ['62895411120976']
+global.prems = ['62895411120976']
+global.numberowner = '62895411120976'
+global.nameowner = 'Alief Kaka'
+global.mail = 'aliefkaka123@gmail.com' 
+global.namebot = 'ABSOLUTE'
+global.wm = '© Mamah'
 global.instagram = 'YOUR_LINK_INSTAGRAM'
 global.gc = 'YOUR_LINK_GROUP'
 
@@ -20,18 +20,18 @@ global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 
-global.Qris = 'https://files.catbox.moe/ap9e2y.jpg'
+global.Qris = 'https://static.topindoku.co.id/images/qris/nobu/ID2021071087658_A01.png'
 global.Payment = `
 *Metode Pembayaran Tersedia:*
 
-1. **Dana**       : 085798045817
-2. **OVO**        : 085798045817
-3. **GoPay**      : 085798045817
-4. **ShopeePay**  : 085798045817
-5. **SeaBank**    : 901201296150
-6. **BankJago**   : 104458766508
-7. **Madera**     : 86100581006
-8. **NeoBank**    : 5859459280114413
+1. **Dana**       : 0895411120976
+2. **OVO**        : 0895411120976
+3. **GoPay**      : 0895411120976
+4. **ShopeePay**  : 0895411120976
+5. **SeaBank**    : -
+6. **BankJago**   : -
+7. **Madera**     : -
+8. **NeoBank**    : -
 
 *Untuk QRIS, silakan scan gambar di bawah ini.*
 `
@@ -43,7 +43,7 @@ global.githubToken = 'YOUR_GITHUB_TOKEN'
 global.maxwarn = '2'
 global.antiporn = true
 
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'Btz-fsApq' 
 global.btc = 'YOUR_APIKEY_HERE' 
 
 global.APIs = {   
