@@ -44,7 +44,7 @@ global.maxwarn = '2'
 global.antiporn = true
 
 global.lann = 'Btz-fsApq' 
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'a3xNnypG' 
 
 global.APIs = {   
   lann: 'https://api.betabotz.eu.org',
